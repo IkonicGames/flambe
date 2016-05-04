@@ -1,0 +1,12 @@
+Todo list, current goals and version information.
+
+Backlog:
+  ☐ Think of a name for this fork
+  ☐ Generic Editor Creation
+  ☐ Entity Editor
+  ☐ Scene Editor
+  ☐ Script Editor
+  ☐ AnimatedFloat/Value without underscore?
+  ☐ Convert to a Transform component on every Entity instead of Sprite
+  ☐ Upgrade to latest haxe version
+  ☐ Template system for project creation
